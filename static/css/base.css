@@ -70,6 +70,10 @@ body {
 	z-index: -1;
 }
 
+a.category-badge > spain.badge:hover {
+    background: #fff !important;
+    color: #fff !important;
+}
 /* -------------------------------- Media Queries */
 
 /* Slightly larger container on xl screens */
